@@ -1,0 +1,28 @@
+name: sandeepjayendran
+favicon: null
+layout_spectrum: 0.24120085127651691
+typography_spectrum: 0.6391521182376891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.16196734481491148
+  lightness: 0.6145855707582086
+  saturation: 0.23346289293840528
+  rhythmicContrast: 0.17631426500156522
+purpose: []
